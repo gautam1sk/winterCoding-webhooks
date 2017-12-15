@@ -1,3 +1,3 @@
 # winterCoding-webhooks
-HAckathon etest
+Hackathon
 
